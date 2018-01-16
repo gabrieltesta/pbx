@@ -1,0 +1,39 @@
+/*
+    Arquivo de customização de CSS para página de meu perfil
+*/
+.fa-sign-out-alt
+{
+    color: #fff;
+}
+
+.padding-top-10
+{
+    padding-top: 10px;
+}
+
+.margin-right-4
+{
+    margin-right: 4px;
+}
+
+.table th
+{
+    max-width: 30%;
+    width: 30%;
+}
+
+.card-body
+{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.card
+{
+    margin-top: 10px;
+}
+
+.container:first-of-type
+{
+    padding-bottom: 10px;
+}

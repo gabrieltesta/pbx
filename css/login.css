@@ -1,0 +1,12 @@
+/*
+    Arquivo de customização de CSS para página de login(index.php)
+*/
+.container:first-of-type
+{
+    margin-top: 50px;
+}
+
+.btn
+{
+    min-width: 155px;
+}

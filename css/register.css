@@ -1,0 +1,17 @@
+/*
+    Arquivo de customização de CSS para página de registro
+*/
+.container:first-of-type
+{
+    margin-top: 50px;
+}
+
+.btn
+{
+    min-width: 155px;
+}
+
+#senha-gerada
+{
+    cursor: pointer;
+}
